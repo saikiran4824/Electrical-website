@@ -1,4 +1,4 @@
-My Vercel Hosted Link↗️🔗 (https://electrical-website-eight.vercel.app/)
+[My Vercel Hosted Link↗️🔗](https://electrical-website-eight.vercel.app/)
 [Visit our website](https://yourwebsite.com)
 
 IMAGES FOR PREVIEW
